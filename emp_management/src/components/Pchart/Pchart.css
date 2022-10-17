@@ -1,0 +1,7 @@
+.chartWrap{
+    display: flex;
+    flex-direction: row;
+    margin:2.5rem;
+    align-items: center;
+    justify-content: space-evenly;
+}
